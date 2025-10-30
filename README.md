@@ -1,2 +1,2 @@
-# practica-git
-repositorio de practica
+# Hola 
+Esta es mi primera pr ctica con Git. 
